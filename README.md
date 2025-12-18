@@ -1,7 +1,11 @@
-# DEPI – Fortinet Project 4: Advanced Security Profiles
+# DEPI – Fortinet Project 4: Advanced Fortigate Security Profiles
 
 ## Overview
-تنفيذ Security Profiles (Antivirus, Web Filtering, Application Control) على FortiGate مع متابعة ورفع تقارير.
+This project focuses on implementing Advanced Security Profiles on FortiGate Firewall to enhance network security and protect users from various cyber threats. The main goal is to configure and test key FortiGate security profiles, including Antivirus, Web Filtering, and Application Control, and to monitor their effectiveness through logging and reporting tools.
+
+Throughout the project, a secure network environment is designed where security profiles are applied to firewall policies to control traffic, block malicious content, and prevent unauthorized or risky applications. Monitoring and reporting features are used to analyze network activity, detect threats, and generate detailed security reports.
+
+By the end of this project, the team demonstrates practical knowledge of FortiGate security profiles, real-time monitoring, and security reporting, providing a comprehensive understanding of how advanced firewall features contribute to strengthening enterprise network security.
 
 ## Team Members
 - Jihanel Khouly
