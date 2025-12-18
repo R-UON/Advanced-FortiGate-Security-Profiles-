@@ -26,3 +26,6 @@ By the end of this project, the team demonstrates practical knowledge of FortiGa
 - Test Evidence (Screenshots, Logs)
 - Monitoring Report
 - Final Report & Presentation
+
+
+This project is a graduation project conducted as part of the Egypt Digital Pioneers Initiative under the Fortinet Cybersecurity Engineer track, aiming to provide hands-on experience with enterprise-grade security solutions and real-world firewall implementations
